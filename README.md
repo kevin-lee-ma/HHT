@@ -1,2 +1,4 @@
 # HHT
-HHT epidemiology and genetics in the All of Us database.
+Objective: Exploring the epidemiology and genetics of Hereditary Hemorrhagic Telangiectasias in the All of Us database.
+Cohort: consists of two groups: A) people who have been diagnosed with HHT, and B) people who were found on short-read whole genome sequencing to have pathogenic or likely pathogenic mutations in at least one of four genes: ENG, ACVRL1, SMAD4, GDF2.
+Descriptive variables: age, sex, race, ethnicity, geographic distribution within U.S. based on zip code data (e.g. state map), symptom rates (epistaxis, anemia/iron deficiency, GI bleed, hepatic AVMs, pulmonary AVMs, cerebral AVMs), procedures needed (endoscopic control of epistaxis, EGD, colonoscopy, RBC transfusion), medications needed (bevacizumab, tranexamic acid, iron supplementation)
