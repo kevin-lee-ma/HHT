@@ -1,0 +1,29 @@
+name,short,addr,city,state,zip,phone,directors,lat,lon,src
+UAB University Hospital,UAB,"The Kirklin Clinic at UAB, Neuroscience One, 2000 6th Ave South, 2nd Floor",Birmingham,AL,35233,205-996-9647 (adult); 205-638-3487 (pediatric),"Jesse Jones, MD; Theresa Caridi, MD",33.507099,-86.800605,U.S. Census geocoder
+Barrow Neurological Institute,Barrow,"Arizona Pulmonary Specialists, 9060 East Via Linda, Suite 250",Scottsdale,AZ,85258,1-888-BNI-4HHT,"Akshay Muralidhar, MD",33.569814,-111.884506,U.S. Census geocoder
+University of California San Francisco,UCSF,"185 Berry Street, Suite 350, Lobby 6",San Francisco,CA,94107,415-353-8867,"Miles Conrad, MD, MPH; Steven Hetts, MD",37.776028,-122.392948,U.S. Census geocoder
+Stanford Health Care,Stanford,300 Pasteur Drive,Stanford,CA,94305,650-498-1764,"Edda Spiekerkoetter, MD; David Stevenson, MD",37.432691,-122.175541,OpenStreetMap
+"University of California, Los Angeles",UCLA,"100 Medical Plaza, Suite 100",Los Angeles,CA,90095,310-481-7545,"Justin McWilliams, MD; Lucas Cusumano, MD, MPH",34.065128,-118.445828,U.S. Census geocoder
+UC San Diego Health,UCSD,"UCSD Hemophilia and Thrombosis Treatment Center, 9333 Genesee Ave, Suite 310",San Diego,CA,92121,858-657-6028,"Jenny Zhou, MD; Annette von Drygalski, MD, PharmD",32.875519,-117.213973,U.S. Census geocoder
+University of Colorado Hospital,Colorado,12505 E 16th Avenue,Aurora,CO,80045,720-848-5300 (option 4),"Bryan Park, MD; Jonathan Lindquist, MD",39.742439,-104.842696,OpenStreetMap
+Yale University School of Medicine,Yale,"Dept. of Radiology and Biomedical Imaging, PO Box 208042",New Haven,CT,06520,203-737-1427,"Jeffrey Pollak, MD; Katharine Henderson, MS, CGC",41.303002,-72.933244,"OpenStreetMap, 333 Cedar St (listed address is a PO Box)"
+University of Miami Hospital,Miami,"1150 NW 14th St, Suite 508",Miami,FL,33136,305-243-8270,"Joseph Zikria, MD",25.787582,-80.213725,U.S. Census geocoder
+University of Florida Health,UF,1600 S.W. Archer Road,Gainesville,FL,32610,352-273-8990,"Ali Ataya, MD",29.63954,-82.342645,U.S. Census geocoder
+Augusta University,Augusta,"1120 15th Street, BBR 5513",Augusta,GA,30912,762-375-0470,"James Gossage, MD; Paul Kirkpatrick, MD",33.470983,-81.991567,U.S. Census geocoder
+University of Chicago Medical Center,UChicago,5841 S Maryland Avenue,Chicago,IL,60637,773-702-2123 (new patients),"Kenneth Cohen, MD",41.788775,-87.604858,U.S. Census geocoder
+Innovative Hematology (Indiana Hemophilia & Thrombosis Center),Indiana HTC,8326 Naab Road,Indianapolis,IN,46260,317-871-0011 x1123,"Magdalena Lewandowska, MD; Manjusha Kumar, MD",39.907462,-86.198376,U.S. Census geocoder
+Massachusetts General Hospital,MGH,55 Fruit Street,Boston,MA,02114,617-724-3705,"Josanna Rodriguez-Lopez, MD; Hanny Al-Samkari, MD",42.362487,-71.069835,U.S. Census geocoder
+Johns Hopkins,Johns Hopkins,"1800 Orleans Street, Interventional Radiology Center, Charlotte Bloomberg Bldg, Suite 3287",Baltimore,MD,21287,410-464-6555 (all appts),"Clifford Weiss, MD; Panagis Galiatsatos, MD, MHS; Nicholas Rowan, MD",39.295335,-76.593901,U.S. Census geocoder
+Mayo Clinic (MN),Mayo,200 1st Street SW,Rochester,MN,55905,507-284-2158,"Vivek Iyer, MD, MPH",44.022992,-92.466573,OpenStreetMap
+Washington University School of Medicine,WashU,"660 S Euclid Avenue, #8052",St. Louis,MO,63110,314-454-8671 (adult); 314-454-2479 (pediatric),"Murali Chakinala, MD; Bryan Sisk, MD, MSCI",38.634463,-90.26317,U.S. Census geocoder
+University of North Carolina,UNC,"6340 Quadrangle Drive, Suite 50",Chapel Hill,NC,27517,919-966-2790,"Raj Kasthuri, MBBS, MD",35.913069,-78.979482,U.S. Census geocoder
+New York Presbyterian/Columbia University Irving Medical Center,Columbia,"Herbert Irving Pavilion, 161 Fort Washington Avenue, 3rd Floor",New York,NY,10032,212-305-7470,"Charles Murphy, MD; Vladimir Sheynzon, MD, MBA; Andrei Constantinescu, MD",40.841258,-73.942717,U.S. Census geocoder
+Cincinnati Children's Hospital Medical Center,Cincinnati Children's,3333 Burnet Avenue,Cincinnati,OH,45229,513-636-2084,"Adrienne Hammill, MD, PhD; Manish Patel, DO",39.141242,-84.500437,U.S. Census geocoder
+Cleveland Clinic,Cleveland Clinic,"9500 Euclid Avenue, Desk A90",Cleveland,OH,44195,216-445-3636,"Joseph Parambil, MD; Keith McCrae, MD",41.503344,-81.622885,U.S. Census geocoder
+Oregon Health and Science University,OHSU,"3181 SW Sam Jackson Park Road, OHSU L-605",Portland,OR,97239,503-418-6725,"Mark Chesnutt, MD; Claire Kaufman, MD",45.500161,-122.684656,U.S. Census geocoder
+University of Pennsylvania,Penn,"3400 Spruce Street, 5 Silverstein, Suite 5100",Philadelphia,PA,19104,215-662-3622 (adult); 215-590-3535 (pediatric),"Scott Trerotola, MD; Theodore Drivas, MD, PhD",39.950398,-75.192673,U.S. Census geocoder
+UPMC and The University of Pittsburgh,UPMC,200 Lothrop Street,Pittsburgh,PA,15213,412-648-6161 (adult); 412-692-5070 (pediatric),"Suneeta Madenan-Khetarpal, MD",40.441899,-79.96075,U.S. Census geocoder
+Texas Children's Hospital,Texas Children's,"6701 Fannin Street, 14th Floor, Hematology Clinic",Houston,TX,77030,832-822-3800,"Amir Pezeshkmehr, MD; Ionela Iacobas, MD",29.70736,-95.402669,U.S. Census geocoder
+University of Texas Southwestern,UTSW,"Professional Office Bldg 2, Suite 935, 5939 Harry Hines Blvd.",Dallas,TX,75390,214-645-2100 (adult); 214-456-2857 (pediatric),"John Battaile, MD; An Lu, MD",32.817503,-96.844457,U.S. Census geocoder
+University of Utah Medical Center,Utah,"30 North 1900 East, Room 4A100",Salt Lake City,UT,84132,801-581-8188,"Kevin Whitehead, MD",40.768496,-111.83686,U.S. Census geocoder
+Froedtert & Medical College of Wisconsin,Froedtert/MCW,9200 W Wisconsin Avenue,Milwaukee,WI,53226,414-805-3680 (adult); 414-266-3347 (pediatric),"Jake Decker, MD",43.038416,-88.031655,U.S. Census geocoder
